@@ -1,4 +1,4 @@
-Conversor de Monedas
+💵 Conversor de Monedas 💵
 
 Una aplicación en Java que convierte una cantidad de una moneda a otra utilizando tasas de cambio en tiempo real. Este proyecto usa la biblioteca Gson para analizar respuestas JSON de una API.
 
@@ -66,7 +66,7 @@ Notas
 
 disfrutalo!! 
 
-Hecho con ❤️ por Arawill
+Hecho con ❤️ por Aranwill
 
 Licencia
 
